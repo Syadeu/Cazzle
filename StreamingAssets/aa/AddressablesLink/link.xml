@@ -10,6 +10,8 @@
     <type fullname="Card.Data.ForestCardData" preserve="all" />
     <type fullname="Card.DeckCard" preserve="all" />
     <type fullname="Card.FieldCard" preserve="all" />
+    <type fullname="Card.Perk.DestroyCardPerk" preserve="all" />
+    <type fullname="Card.Perk.DrawCardPerk" preserve="all" />
     <type fullname="Card.UI.Unity.CardObjectTexture" preserve="all" />
   </assembly>
   <assembly fullname="MPUIKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
